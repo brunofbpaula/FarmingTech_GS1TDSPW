@@ -1,5 +1,5 @@
 # FarmingTech_GS1TDSPW
-Projeto do grupo FIVETECH para a Global Solution do primeiro semestre do curso de Análise e Desenvolvimento de sistemas.
+Projeto do grupo FIVETECH para a Global Solution do primeiro semestre do curso de Análise e Desenvolvimento de Sistemas.
 
 # FUNCIONAMENTO DO SISTEMA
 Neste projeto, serão utilizadas APIs do OpenWeatherMap, OpenAI, Storm Glass e Geopy. O sistema, através dos dados inseridos pelo usuário, será capaz de imprimir informações sobre o solo (como temperatura e umidade), clima (temperatura, descrição, umidade e velocidade do vento), e localizar as coordenadas da localização declarada pelo usuário. Ao mesmo tempo, integrar respostas da inteligência artificial generativa mais famosa do mundo, o ChatGPT, visando recomendar plantio personalizado de acordo com clima local e estação do ano.
